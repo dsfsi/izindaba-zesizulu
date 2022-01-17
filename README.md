@@ -1,8 +1,8 @@
-# izindaba-zesizulu
+# izindaba zesiZulu ngezigaba zakhona
+
+Categorised isiZulu News
 
 ## Dataset Information
-
-
 
 ## Online Repository link
 
