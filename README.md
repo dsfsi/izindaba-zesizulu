@@ -13,8 +13,8 @@ The dataset has been added to the South African News Data repository.
 
 * **Derwin Ngomane**
 * **Vukosi Marivate** - [@vukosi](https://twitter.com/vukosi)
-* **Rooweither Mabuya**
-* **Jade Abbott**
+* **Rooweither Mabuya** - [@roowym](https://twitter.com/roowym)
+* **Jade Abbott** - [@alienelf](https://twitter.com/alienelf)
 
 See also the list of [contributors](https://github.com/dsfsi/embedding-eval-data//contributors) who participated in this project.
 
