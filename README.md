@@ -13,6 +13,7 @@ The dataset has been added to the South African News Data repository.
 
 * **Derwin Ngomane**
 * **Vukosi Marivate** - [@vukosi](https://twitter.com/vukosi)
+* **Busisiwe Jumbe**
 * **Rooweither Mabuya** - [@roowym](https://twitter.com/roowym)
 * **Jade Abbott** - [@alienelf](https://twitter.com/alienelf)
 
