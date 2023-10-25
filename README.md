@@ -1,6 +1,6 @@
 # izindaba zesiZulu ngezigaba zakhona
 
-Categorised isiZulu News
+Categorised isiZulu News. Source data is the isiZulu news from the SABC social media posts. 
 
 ## Dataset Information
 
@@ -16,7 +16,7 @@ example below
 
 ## Online Repository link
 
-The dataset has been added to the South African News Data repository. 
+The dataset has also been added to the South African News Data repository. 
 * [Zenodo Data Repository - 10.5281/zenodo.3668488](https://doi.org/10.5281/zenodo.3668488) - Link to the data repository.
 
 ## Authors
@@ -31,8 +31,24 @@ See also the list of [contributors](https://github.com/dsfsi/embedding-eval-data
 
 ## Citing the dataset
 
-TBA
+```bibtex
+@inproceedings{ngomane-etal-2023-unsupervised,
+    title = "Unsupervised Cross-lingual Word Embedding Representation for {E}nglish-isi{Z}ulu",
+    author = "Ngomane, Derwin  and
+      Mabuya, Rooweither  and
+      Abbott, Jade  and
+      Marivate, Vukosi",
+    booktitle = "Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023)",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.rail-1.2",
+    doi = "10.18653/v1/2023.rail-1.2",
+    pages = "11--17",
+}
+```
 
 ## License
 
-Dataset license is as per Zenodo Repository.
+Dataset license is CC BY SA
